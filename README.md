@@ -4,7 +4,7 @@
 <!-- ============================================================= -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1E3F,50:173A72,100:0B1E3F&height=220&section=header&text=Nandith%20Reddy&fontSize=52&fontColor=FFFFFF&fontAlignY=52&desc=AI%2FML%20Engineer%20%C2%B7%20Agentic%20AI%20%C2%B7%20GenAI%20%C2%B7%20LLM%20Evaluation&descSize=18&descAlignY=74" alt="Nandith Reddy banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1E3F,50:1B4B91,100:22D3EE&height=220&section=header&text=Nandith%20Reddy&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=AI%2FML%20Engineer%20%C2%B7%20Agentic%20AI%20%C2%B7%20GenAI%20%C2%B7%20LLM%20Evaluation&descSize=18&descAlignY=62" alt="Nandith Reddy banner" />
 
 <!-- ============================================================= -->
 <!-- STATIC SUBTITLE — replaces the typing animation               -->
@@ -179,4 +179,4 @@ I'm an **AI/ML Engineer** with **5+ years** across enterprise software engineeri
 <!-- ============================================================= -->
 <!-- FOOTER — capsule-render waving footer (STATIC)                -->
 <!-- ============================================================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1E3F,50:173A72,100:0B1E3F&height=140&section=footer&text=Let's%20build%20intelligent%20systems&fontSize=20&fontColor=FFFFFF&fontAlignY=68" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:1B4B91,100:0B1E3F&height=140&section=footer&text=Let's%20build%20intelligent%20systems&fontSize=20&fontColor=FFFFFF&fontAlignY=68" alt="Footer" />
