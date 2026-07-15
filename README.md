@@ -170,8 +170,8 @@ I'm an **AI/ML Engineer** with **5+ years** across enterprise software engineeri
 
 <div align="center">
 
-<a href="mailto:NandithReddy.NNR@gmail.com">
-  <img src="https://img.shields.io/badge/NandithReddy.NNR@gmail.com-0B1E3F?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" />
+<a href="mailto:NandithReddy.NR@gmail.com">
+  <img src="https://img.shields.io/badge/NandithReddy.NR@gmail.com-0B1E3F?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" />
 </a>
 
 </div>
